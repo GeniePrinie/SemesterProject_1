@@ -1,0 +1,23 @@
+@media screen and (min-width: 620px) {
+  /* home */
+  .container-welcome-img {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .welcome img {
+    width: 450px;
+  }
+
+  .welcome h1 {
+    margin-left: 35px;
+    margin-right: 5%;
+  }
+  .welcome p,
+  .welcome i,
+  .about p {
+    margin-left: 35px;
+  }
+}

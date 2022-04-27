@@ -1,0 +1,10 @@
+@media screen and (min-width: 800px) {
+  /* home */
+  .welcome img {
+    width: 100%;
+  }
+
+  .welcome-text {
+    min-width: 350px;
+  }
+}

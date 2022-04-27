@@ -1,0 +1,26 @@
+.welcome h1 {
+  font-size: 1.7em;
+  margin-left: 10%;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.about h2 {
+  color: #eef8f7;
+  text-align: center;
+}
+
+p {
+  color: #eef8f7;
+  margin-left: 10%;
+  margin-right: 5%;
+}
+
+.welcome i {
+  color: #eef8f7;
+  margin-left: 10%;
+}
+
+.welcome img {
+  width: 100%;
+}

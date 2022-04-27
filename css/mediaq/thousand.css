@@ -1,0 +1,10 @@
+@media screen and (min-width: 1000px) {
+  /* home */
+  .welcome h1 {
+    font-size: 2.1em;
+  }
+
+  .welcome img {
+    max-width: 1050px;
+  }
+}
