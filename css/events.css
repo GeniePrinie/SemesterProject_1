@@ -1,0 +1,42 @@
+.events,
+h1,
+h2 {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #faab05;
+}
+
+p {
+  color: #eef8f7;
+  margin-top: 0;
+}
+
+h3 {
+  color: #eef8f7;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.events {
+  background-color: #292929;
+  border: 1px solid #838383;
+  padding: 0 10px 10px 10px;
+}
+
+.container-event-text-img {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.container-event-text-img img {
+  width: 100px;
+  height: 153px;
+}
+
+.container-event-text-img p {
+  margin-right: 10px;
+}
