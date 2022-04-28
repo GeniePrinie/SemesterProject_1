@@ -7,4 +7,36 @@
   .welcome-text {
     min-width: 350px;
   }
+
+  /* explore */
+  .explore {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 5%;
+  }
+
+  .explore h2 {
+    margin-top: 0;
+  }
+
+  .container-explore-img {
+    margin-right: 3%;
+    margin-left: 2%;
+    margin-top: 8px;
+  }
+
+  .container-teacher-img {
+    margin-right: 2%;
+    margin-left: 5%;
+  }
+
+  .container-explore-text {
+    margin-left: 2%;
+  }
+
+  .teacher-row-reverse {
+    flex-direction: row-reverse;
+  }
 }

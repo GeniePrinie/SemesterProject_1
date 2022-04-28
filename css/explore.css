@@ -1,0 +1,27 @@
+.explore {
+  margin-bottom: 20%;
+}
+
+.explore,
+h1 {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.explore h2 {
+  color: #faab05;
+}
+
+.explore p {
+  color: #eef8f7;
+}
+
+.container-explore-img img {
+  width: 100%;
+}
+
+.container-kids-2-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 5px;
+}
