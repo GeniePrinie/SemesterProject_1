@@ -1,5 +1,9 @@
 @media screen and (min-width: 800px) {
   /* home */
+  .welcome h1 {
+    font-size: 2.5em;
+  }
+
   .welcome img {
     width: 100%;
   }
