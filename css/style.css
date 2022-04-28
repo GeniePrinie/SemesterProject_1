@@ -1,31 +1,32 @@
 /* global */
 body {
-    margin: 0;
-    background-color: #010607;
+  margin: 0;
+  background-color: #010607;
 }
 
 a {
-    text-decoration: none;
-    font-family: 'Inter', sans-serif;
-    font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 h1 {
-    color: #EEF8F7;
-    font-family: 'Inter', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    letter-spacing: 1.1px;
+  color: #eef8f7;
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1.1px;
 }
 
-h2, h3 {
-    font-family: 'Inter', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    letter-spacing: 1.1px;
+h2,
+h3 {
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1.1px;
 }
 
 p {
-    font-family: 'Inter', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    font-weight: lighter;
-    letter-spacing: 1.1px;
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1.1px;
 }

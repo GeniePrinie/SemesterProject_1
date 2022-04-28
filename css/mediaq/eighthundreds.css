@@ -39,4 +39,35 @@
   .teacher-row-reverse {
     flex-direction: row-reverse;
   }
+
+  /* exhibition */
+  .orange-background {
+    width: 350px;
+  }
+
+  .img-cosmo-moon {
+    bottom: 80px;
+    right: 15px;
+  }
+
+  .img-cosmo-moon img {
+    width: 330px;
+  }
+
+  .img-evo-skeleton img {
+    width: 330px;
+  }
+
+  .img-eco-mammoth {
+    bottom: 270px;
+    right: 10px;
+  }
+
+  .img-eco-mammoth img {
+    width: 240px;
+  }
+
+  .img-eco-ants img {
+    width: 330px;
+  }
 }

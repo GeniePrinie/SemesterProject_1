@@ -7,4 +7,56 @@
   .welcome img {
     max-width: 1050px;
   }
+
+  /* exhibition */
+  .orange-background {
+    width: 420px;
+  }
+
+  .img-cosmo-moon img {
+    width: 400px;
+  }
+
+  .img-evo-skeleton {
+    bottom: 70px;
+    left: 15px;
+  }
+
+  .img-evo-skeleton img {
+    width: 400px;
+  }
+
+  .img-biomed-lungs {
+    bottom: 190px;
+    right: 15px;
+  }
+
+  .img-biomed-lungs img {
+    width: 150px;
+  }
+
+  .img-biomed-heart {
+    right: 30px;
+  }
+
+  .img-biomed-heart img {
+    width: 370px;
+  }
+
+  .img-robot-goggle {
+    bottom: 100px;
+    left: 35px;
+  }
+
+  .img-robot-goggle img {
+    width: 330px;
+  }
+
+  .img-eco-mammoth img {
+    width: 270px;
+  }
+
+  .img-eco-ants img {
+    width: 400px;
+  }
 }

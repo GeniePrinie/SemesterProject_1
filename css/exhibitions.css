@@ -1,0 +1,109 @@
+h1,
+.orange-background {
+  margin: 50px 2%;
+}
+
+.orange-background {
+  background-color: #faab05;
+  padding: 20px;
+  height: 900px;
+  position: relative;
+}
+
+.blue-background {
+  background-color: #eef8f7;
+  padding: 20px;
+  height: 700px;
+  width: 250px;
+  position: absolute;
+}
+
+.blue-bg-right {
+  right: 20px;
+}
+
+.img-cosmo-telescope {
+  position: absolute;
+  bottom: 250px;
+  right: 30px;
+  z-index: 2;
+}
+
+.img-cosmo-telescope img {
+  width: 200px;
+}
+
+.img-cosmo-moon {
+  position: absolute;
+  bottom: 80px;
+  right: 10px;
+  z-index: 1;
+}
+
+.img-cosmo-moon img {
+  width: 330px;
+}
+
+.img-evo-skeleton {
+  position: absolute;
+  bottom: 90px;
+  left: 20px;
+}
+
+.img-evo-skeleton img {
+  width: 320px;
+}
+
+.img-biomed-lungs {
+  position: absolute;
+  bottom: 135px;
+  right: 10px;
+  z-index: 2;
+}
+
+.img-biomed-lungs img {
+  width: 100px;
+}
+
+.img-biomed-heart {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1;
+}
+
+.img-biomed-heart img {
+  width: 320px;
+}
+
+.img-robot-goggle {
+  position: absolute;
+  bottom: 120px;
+  left: 30px;
+}
+
+.img-robot-goggle img {
+  width: 300px;
+}
+
+.img-eco-mammoth {
+  position: absolute;
+  bottom: 250px;
+  right: 10px;
+  z-index: 2;
+}
+
+.img-eco-mammoth img {
+  width: 230px;
+}
+
+.img-eco-ants {
+  position: absolute;
+  bottom: 50px;
+  right: 20px;
+  z-index: 1;
+}
+
+.img-eco-ants img {
+  width: 310px;
+}

@@ -1,0 +1,89 @@
+@media screen and (min-width: 660px) {
+  /* home */
+  .container-welcome-img {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .welcome img {
+    width: 450px;
+  }
+
+  .welcome h1 {
+    margin-left: 35px;
+    margin-right: 5%;
+  }
+  .welcome p,
+  .welcome i,
+  .about p {
+    margin-left: 35px;
+  }
+
+  /* exhibition */
+  .orange-background {
+    width: 280px;
+    margin: 0;
+    margin-bottom: 40px;
+  }
+
+  .exhibition {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .img-cosmo-moon {
+    bottom: 90px;
+    right: 5px;
+  }
+
+  .img-cosmo-moon img {
+    width: 300px;
+  }
+
+  .img-evo-skeleton {
+    left: 15px;
+  }
+
+  .img-evo-skeleton img {
+    width: 300px;
+  }
+
+  .img-biomed-lungs {
+    bottom: 130px;
+    right: 5px;
+  }
+
+  .img-biomed-lungs img {
+    width: 100px;
+  }
+
+  .img-biomed-heart {
+    bottom: 15px;
+    right: 15px;
+  }
+
+  .img-biomed-heart img {
+    width: 300px;
+  }
+
+  .img-robot-goggle {
+    bottom: 110px;
+    left: 35px;
+  }
+
+  .img-robot-goggle img {
+    width: 275px;
+  }
+
+  .img-eco-mammoth {
+    bottom: 240px;
+    right: 5px;
+  }
+
+  .img-eco-ants img {
+    width: 290px;
+  }
+}
