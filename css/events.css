@@ -10,12 +10,12 @@ h2 {
   color: #faab05;
 }
 
-p {
+.events p {
   color: #eef8f7;
   margin-top: 0;
 }
 
-h3 {
+.events h3 {
   color: #eef8f7;
   text-decoration: underline;
   cursor: pointer;
