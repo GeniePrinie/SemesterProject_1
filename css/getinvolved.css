@@ -1,0 +1,19 @@
+.involved,
+h1 {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 40px;
+}
+
+.involved img {
+  width: 100%;
+}
+
+.involved h2 {
+  color: #faab05;
+  text-align: center;
+}
+
+.involved p {
+  color: #eef8f7;
+}

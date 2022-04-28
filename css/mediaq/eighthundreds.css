@@ -84,4 +84,14 @@
   .visit {
     width: 100%;
   }
+
+  /* get involved */
+  .container-involved {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .involved {
+    width: 100%;
+  }
 }
