@@ -74,4 +74,14 @@
   .img-eco-ants img {
     width: 330px;
   }
+
+  /* visit */
+  .container-visit {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .visit {
+    width: 100%;
+  }
 }
