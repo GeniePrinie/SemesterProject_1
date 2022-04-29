@@ -24,3 +24,7 @@ p {
 .welcome img {
   width: 100%;
 }
+
+.about {
+  margin-bottom: 50px;
+}
