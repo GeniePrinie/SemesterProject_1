@@ -94,4 +94,19 @@
   .involved {
     width: 100%;
   }
+
+  /* footer */
+  .container-connected-logo {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+  }
+
+  .container-footer-logo {
+    margin-right: 30px;
+  }
+
+  .container-icon-p {
+    margin-left: 30px;
+  }
 }

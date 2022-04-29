@@ -59,4 +59,34 @@
   .img-eco-ants img {
     width: 400px;
   }
+
+  /* footer */
+  footer h2 {
+    text-align: left;
+    margin-left: 90px;
+  }
+  .container-form-connected-logo {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+
+  .container-form {
+    margin-right: 90px;
+  }
+
+  .container-icon-p {
+    margin-right: 30px;
+  }
+
+  .container-footer-logo {
+    margin-left: 90px;
+  }
+
+  .footer-logo {
+    justify-content: left;
+  }
+  .footer-address-tel-email {
+    align-items: flex-start;
+  }
 }

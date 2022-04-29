@@ -86,34 +86,79 @@
     <!-- footer-->
     <footer>
       <h2>Contact</h2>
-      <h3>Leave us a Message</h3>
-      <!-- Contact form -->
-      <form action=""></form>
-      <div><a href="#">Submit</a></div>
-      <!-- Stay Connected -->
-      <h3>Stay Connected</h3>
-      <div>
-        <i class="fa-brands fa-facebook-f"></i>
-        <p>Facebook</p>
-      </div>
 
-      <div>
-        <i class="fa-brands fa-instagram"></i>
-        <p>Instagram</p>
-      </div>
+      <div class="container-form-connected-logo">
+        <div class="container-form">
+          <h3>Leave us a Message</h3>
+          <!-- Contact form -->
+          <form action="">
+            <input
+              type="text"
+              name="fullName"
+              id="name"
+              placeholder="Full Name"
+            />
 
-      <div>
-        <i class="fa-brands fa-youtube"></i>
-        <p>Youtube</p>
-      </div>
+            <input type="email" name="email" id="email" placeholder="Email*" />
 
-      <!-- logo, address, phone, email -->
-      <a href="#"
-        ><img src="/images/CSMLogo.jpg" alt="Community Science Museum Logo"
-      /></a>
-      <p>777 Jupiter Street Oslo, Norway 8071</p>
-      <p>Tel +47 789 45 123</p>
-      <p>Email csm@csmuseum.com</p>
+            <input
+              type="text"
+              name="subject"
+              id="subject"
+              placeholder="Subject"
+            />
+
+            <textarea
+              name="message"
+              id="message"
+              cols="24"
+              rows="5"
+              placeholder="Your Message..."
+            ></textarea>
+
+            <div class="button-submit"><a href="#">Submit</a></div>
+          </form>
+        </div>
+        <div class="container-connected-logo">
+          <div class="container-icon-p">
+            <!-- Stay Connected -->
+            <h3>Stay Connected</h3>
+            <div class="icon-p">
+              <i class="fa-brands fa-facebook-f"></i>
+              <p>Facebook</p>
+            </div>
+
+            <div class="icon-p">
+              <i class="fa-brands fa-instagram"></i>
+              <p>Instagram</p>
+            </div>
+
+            <div class="icon-p">
+              <i class="fa-brands fa-youtube"></i>
+              <p>Youtube</p>
+            </div>
+          </div>
+
+          <div class="container-footer-logo">
+            <!-- logo, address, phone, email -->
+            <div class="footer-logo">
+              <a href="/index.html"
+                ><img
+                  src="/images/CSMLogo.jpg"
+                  alt="Community Science Museum Logo"
+              /></a>
+            </div>
+            <div class="footer-address-tel-email">
+              <p>777 Jupiter Street Oslo, Norway 8071</p>
+              <p>Tel: +47 789 45 123</p>
+              <p>Email: csm@csmuseum.com</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </footer>
+    <section class="copyright">
+      <p>&copy; 2022 Community Science Museum</p>
+    </section>
   </body>
 </html>

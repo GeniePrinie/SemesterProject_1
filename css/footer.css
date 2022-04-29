@@ -1,12 +1,116 @@
-footer {
-    background-color: #EEF8F7;
+.copyright {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
-footer h2, footer h3 {
-    color: #010607;
-    text-align: center;
+footer {
+  background-color: #eef8f7;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+footer h2,
+footer h3 {
+  color: #010607;
+  text-align: center;
 }
 
 footer p {
-    color: #010607;
+  color: #010607;
+}
+
+form input {
+  border: none;
+  border-bottom: 1px solid #010607;
+  background-color: #eef8f7;
+  margin-top: 20px;
+  width: 200px;
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #010607;
+  font-size: 1em;
+  font-weight: 100;
+}
+
+input::placeholder {
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #010607;
+  font-size: 1em;
+  font-weight: 100;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+textarea {
+  border: none;
+  border-bottom: 1px solid #010607;
+  background-color: #eef8f7;
+  margin-top: 20px;
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #010607;
+  font-size: 1em;
+  font-weight: 100;
+}
+
+textarea::placeholder {
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #010607;
+  font-size: 1em;
+  font-weight: 100;
+}
+
+.button-submit {
+  background-color: #010607;
+  width: 100px;
+  text-align: center;
+  padding: 5px 10px;
+  margin: 30px;
+}
+
+.button-submit a {
+  color: #eef8f7;
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+}
+
+.icon-p {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.icon-p p {
+  margin: 0 0 10px 5px;
+}
+
+.footer-logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.footer-logo img {
+  width: 200px;
+}
+
+.footer-address-tel-email {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-address-tel-email p {
+  margin: 15px 0 0 0;
 }
