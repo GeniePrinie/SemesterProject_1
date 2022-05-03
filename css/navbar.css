@@ -25,7 +25,7 @@
   width: 30px;
   height: 30px;
   padding: 1rem;
-  background: #010607;
+  background: #010506;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -132,7 +132,7 @@
 
 .menu-wrap .menu > div > div > ul > li {
   list-style: none;
-  color: #010607;
+  color: #010506;
   font-size: 1.5rem;
   padding-top: 1rem;
 

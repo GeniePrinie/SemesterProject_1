@@ -18,23 +18,23 @@ footer {
 
 footer h2,
 footer h3 {
-  color: #010607;
+  color: #010506;
   text-align: center;
 }
 
 footer p {
-  color: #010607;
+  color: #010506;
 }
 
 form input {
   border: none;
-  border-bottom: 1px solid #010607;
+  border-bottom: 1px solid #010506;
   background-color: #eef8f7;
   margin-top: 20px;
   width: 200px;
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
-  color: #010607;
+  color: #010506;
   font-size: 1em;
   font-weight: 100;
 }
@@ -42,7 +42,7 @@ form input {
 input::placeholder {
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
-  color: #010607;
+  color: #010506;
   font-size: 1em;
   font-weight: 100;
 }
@@ -56,12 +56,12 @@ form {
 
 textarea {
   border: none;
-  border-bottom: 1px solid #010607;
+  border-bottom: 1px solid #010506;
   background-color: #eef8f7;
   margin-top: 20px;
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
-  color: #010607;
+  color: #010506;
   font-size: 1em;
   font-weight: 100;
 }
@@ -69,13 +69,13 @@ textarea {
 textarea::placeholder {
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
-  color: #010607;
+  color: #010506;
   font-size: 1em;
   font-weight: 100;
 }
 
 .button-submit {
-  background-color: #010607;
+  background-color: #010506;
   width: 100px;
   text-align: center;
   padding: 5px 10px;
