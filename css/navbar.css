@@ -2,14 +2,14 @@
   position: fixed;
   top: 0;
   right: 0;
-  z-index: 1;
+  z-index: 3;
 }
 
 .menu-wrap .toggler {
   position: absolute;
   top: 0;
   right: 0;
-  z-index: 2;
+  z-index: 4;
   cursor: pointer;
   width: 60px;
   height: 60px;
@@ -21,7 +21,7 @@
   position: absolute;
   top: 0;
   right: 0;
-  z-index: 1;
+  z-index: 3;
   width: 30px;
   height: 30px;
   padding: 1rem;
@@ -49,7 +49,7 @@
 .menu-wrap .hamburger > div::after {
   content: "";
   position: absolute;
-  z-index: 1;
+  z-index: 3;
   top: -10px;
   width: 100%;
   height: 2px;

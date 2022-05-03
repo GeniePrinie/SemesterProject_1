@@ -4,6 +4,12 @@
   justify-content: center;
 }
 
+.copyright p {
+  color: #eef8f7;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 footer {
   background-color: #eef8f7;
   padding-top: 20px;
