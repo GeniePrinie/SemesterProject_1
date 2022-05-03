@@ -8,6 +8,21 @@
     max-width: 1050px;
   }
 
+  .welcome-mini {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .welcome-mini p {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .welcome-mini i {
+    margin-right: 20px;
+  }
+
   /* exhibition */
   .orange-background {
     width: 420px;

@@ -3,7 +3,7 @@
   .container-welcome-img {
     display: flex;
     flex-direction: row-reverse;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-end;
   }
 
@@ -13,9 +13,10 @@
 
   .welcome h1 {
     margin-left: 35px;
-    margin-right: 5%;
+    margin-right: 0;
     font-size: 2em;
   }
+
   .welcome p,
   .welcome i,
   .about p {

@@ -1,19 +1,16 @@
 .welcome h1 {
   font-size: 1.8em;
   margin-left: 10%;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   font-weight: 500;
-}
-
-.about h2 {
-  color: #eef8f7;
-  text-align: center;
+  max-width: 315px;
 }
 
 p {
   color: #eef8f7;
   margin-left: 10%;
   margin-right: 5%;
+  max-width: 900px;
 }
 
 .welcome i {
@@ -25,6 +22,18 @@ p {
   width: 100%;
 }
 
+.welcome-mini {
+  margin-bottom: 40px;
+}
+
 .about {
   margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.about h2 {
+  color: #eef8f7;
+  text-align: center;
 }
