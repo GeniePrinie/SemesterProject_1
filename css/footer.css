@@ -95,6 +95,13 @@ textarea::placeholder {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  cursor: pointer;
+}
+
+.icon-p p:hover {
+  color: #e35f21;
+  text-decoration: underline;
+  font-weight: bolder;
 }
 
 .icon-p p {
