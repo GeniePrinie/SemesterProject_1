@@ -1,4 +1,9 @@
-h1,
+h1 {
+  margin-bottom: 40px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
 .orange-background {
   margin: 50px 2%;
 }

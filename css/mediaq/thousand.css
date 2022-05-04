@@ -23,6 +23,10 @@
     margin-right: 20px;
   }
 
+  /* explore */
+  .explore-h1 {
+    margin-bottom: 20px;
+  }
   /* explore, exhibition, events, visit, get involved h1*/
   .explore-h1,
   .exhibition-h1,
@@ -84,6 +88,11 @@
 
   .img-eco-ants img {
     width: 400px;
+  }
+
+  /* events */
+  .events-h1 h1 {
+    margin-bottom: 20px;
   }
 
   /* visit */
