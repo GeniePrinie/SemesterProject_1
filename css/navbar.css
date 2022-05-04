@@ -1,7 +1,7 @@
 .menu-wrap {
   position: fixed;
   top: 0;
-  right: 0;
+  right: 0px;
   z-index: 3;
 }
 
@@ -22,8 +22,8 @@
   top: 0;
   right: 0;
   z-index: 3;
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
   padding: 1rem;
   background: #010506;
   display: flex;
