@@ -91,6 +91,10 @@
     justify-content: center;
   }
 
+  .visit {
+    max-width: 265px;
+  }
+
   /* get involved */
   .involved {
     max-width: 400px;
