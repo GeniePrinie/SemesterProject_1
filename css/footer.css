@@ -8,6 +8,7 @@
   color: #eef8f7;
   margin-left: 0;
   margin-right: 0;
+  font-size: 16px;
 }
 
 footer {
@@ -24,6 +25,7 @@ footer h3 {
 
 footer p {
   color: #010506;
+  font-size: 16px;
 }
 
 form input {
@@ -35,7 +37,7 @@ form input {
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
   color: #010506;
-  font-size: 1em;
+  font-size: 1rem;
   font-weight: 100;
 }
 
@@ -43,7 +45,7 @@ input::placeholder {
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
   color: #010506;
-  font-size: 1em;
+  font-size: 1rem;
   font-weight: 100;
 }
 
@@ -62,7 +64,7 @@ textarea {
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
   color: #010506;
-  font-size: 1em;
+  font-size: 1rem;
   font-weight: 100;
 }
 
@@ -70,7 +72,7 @@ textarea::placeholder {
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
   color: #010506;
-  font-size: 1em;
+  font-size: 1rem;
   font-weight: 100;
 }
 
