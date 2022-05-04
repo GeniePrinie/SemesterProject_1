@@ -18,19 +18,20 @@ h1 {
   color: #eef8f7;
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
-  letter-spacing: 1.1px;
+  letter-spacing: 1.2px;
 }
 
 h2,
 h3 {
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
-  letter-spacing: 1.1px;
+  letter-spacing: 1.2px;
 }
 
 p {
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
   font-weight: lighter;
-  letter-spacing: 1.1px;
+  letter-spacing: 1.6px;
+  font-size: larger;
 }
