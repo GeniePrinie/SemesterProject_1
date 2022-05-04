@@ -23,6 +23,17 @@
     margin-right: 20px;
   }
 
+  /* explore, exhibition, events, visit, get involved h1*/
+  .explore-h1,
+  .exhibition-h1,
+  .container-events,
+  .visit-h1,
+  .involved-h1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
   /* exhibition */
   .orange-background {
     width: 420px;
@@ -73,6 +84,16 @@
 
   .img-eco-ants img {
     width: 400px;
+  }
+
+  /* visit */
+  .container-visit {
+    justify-content: center;
+  }
+
+  /* get involved */
+  .involved {
+    max-width: 400px;
   }
 
   /* footer */

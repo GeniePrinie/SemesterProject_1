@@ -16,7 +16,6 @@
   .explore {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
     justify-content: center;
     margin-bottom: 5%;
   }
@@ -76,21 +75,27 @@
   .img-eco-ants img {
     width: 330px;
   }
+  /* events */
+  .container-event-text-img p {
+    max-width: 800px;
+  }
 
   /* visit */
   .container-visit {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
   }
 
   .visit {
-    width: 100%;
+    max-width: 210px;
   }
 
   /* get involved */
   .container-involved {
     display: flex;
     flex-direction: row;
+    justify-content: center;
   }
 
   .involved {
