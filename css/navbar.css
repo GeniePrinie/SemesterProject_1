@@ -1,3 +1,10 @@
+/* icon */
+nav i {
+  cursor: pointer;
+  color: #010506;
+}
+
+/* hambuger menu */
 .menu-wrap {
   position: fixed;
   top: 0;
@@ -145,7 +152,8 @@
   transition: color 0.3s ease;
 }
 
-.menu-wrap .menu > div > div > ul > li > a:hover {
+.menu-wrap .menu > div > div > ul > li > a:hover,
+nav i:hover {
   color: #e35f21;
   text-decoration: underline;
 }
