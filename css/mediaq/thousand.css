@@ -43,13 +43,20 @@
     width: 420px;
   }
 
+  .blue-background {
+    width: 300px;
+  }
+
+  .img-cosmo-telescope {
+    bottom: 250px;
+  }
+
   .img-cosmo-moon img {
     width: 400px;
   }
 
   .img-evo-skeleton {
     bottom: 70px;
-    left: 15px;
   }
 
   .img-evo-skeleton img {
@@ -62,7 +69,7 @@
   }
 
   .img-biomed-lungs img {
-    width: 150px;
+    width: 130px;
   }
 
   .img-biomed-heart {
@@ -70,20 +77,19 @@
   }
 
   .img-biomed-heart img {
-    width: 370px;
-  }
-
-  .img-robot-goggle {
-    bottom: 100px;
-    left: 35px;
+    width: 350px;
   }
 
   .img-robot-goggle img {
     width: 330px;
   }
 
+  .img-eco-mammoth {
+    bottom: 300px;
+  }
+
   .img-eco-mammoth img {
-    width: 270px;
+    width: 290px;
   }
 
   .img-eco-ants img {

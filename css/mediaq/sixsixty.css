@@ -37,7 +37,7 @@
   }
 
   .img-cosmo-moon {
-    bottom: 90px;
+    bottom: 70px;
     right: 5px;
   }
 
@@ -58,10 +58,6 @@
     right: 5px;
   }
 
-  .img-biomed-lungs img {
-    width: 100px;
-  }
-
   .img-biomed-heart {
     bottom: 15px;
     right: 15px;
@@ -72,7 +68,6 @@
   }
 
   .img-robot-goggle {
-    bottom: 110px;
     left: 35px;
   }
 
@@ -81,7 +76,7 @@
   }
 
   .img-eco-mammoth {
-    bottom: 240px;
+    bottom: 250px;
     right: 5px;
   }
 

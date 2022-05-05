@@ -11,14 +11,14 @@ h1 {
 .orange-background {
   background-color: #faab05;
   padding: 20px;
-  height: 900px;
+  height: 1050px;
   position: relative;
 }
 
 .blue-background {
   background-color: #eef8f7;
   padding: 20px;
-  height: 700px;
+  height: 850px;
   width: 250px;
   position: absolute;
 }
@@ -29,7 +29,7 @@ h1 {
 
 .img-cosmo-telescope {
   position: absolute;
-  bottom: 250px;
+  bottom: 230px;
   right: 30px;
   z-index: 2;
 }
@@ -40,7 +40,7 @@ h1 {
 
 .img-cosmo-moon {
   position: absolute;
-  bottom: 80px;
+  bottom: 70px;
   right: 10px;
   z-index: 1;
 }
@@ -51,7 +51,7 @@ h1 {
 
 .img-evo-skeleton {
   position: absolute;
-  bottom: 90px;
+  bottom: 70px;
   left: 20px;
 }
 
@@ -61,45 +61,45 @@ h1 {
 
 .img-biomed-lungs {
   position: absolute;
-  bottom: 135px;
-  right: 10px;
+  bottom: 125px;
+  right: 6px;
   z-index: 2;
 }
 
 .img-biomed-lungs img {
-  width: 100px;
+  width: 90px;
 }
 
 .img-biomed-heart {
   position: absolute;
-  bottom: 20px;
+  bottom: 10px;
   right: 20px;
   z-index: 1;
 }
 
 .img-biomed-heart img {
-  width: 320px;
+  width: 300px;
 }
 
 .img-robot-goggle {
   position: absolute;
-  bottom: 120px;
+  bottom: 100px;
   left: 30px;
 }
 
 .img-robot-goggle img {
-  width: 300px;
+  width: 305px;
 }
 
 .img-eco-mammoth {
   position: absolute;
-  bottom: 250px;
+  bottom: 270px;
   right: 10px;
   z-index: 2;
 }
 
 .img-eco-mammoth img {
-  width: 230px;
+  width: 250px;
 }
 
 .img-eco-ants {

@@ -51,7 +51,7 @@
   }
 
   .img-cosmo-moon {
-    bottom: 80px;
+    bottom: 60px;
     right: 15px;
   }
 
@@ -60,6 +60,10 @@
   }
 
   .img-evo-skeleton img {
+    width: 320px;
+  }
+
+  .img-biomed-heart img {
     width: 330px;
   }
 
@@ -69,7 +73,7 @@
   }
 
   .img-eco-mammoth img {
-    width: 240px;
+    width: 270px;
   }
 
   .img-eco-ants img {
