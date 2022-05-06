@@ -37,7 +37,7 @@
       /></a>
 
       <div class="container-hamburger-menu">
-        <input type="checkbox" class="checkbox" aria-label="hamburger-menu" />
+        <input type="checkbox" class="checkbox" aria-label="hamburger menu" />
         <div class="hamburger"><div></div></div>
         <div class="menu">
           <div>
@@ -170,15 +170,23 @@
               name="fullName"
               id="name"
               placeholder="Full Name"
+              aria-label="full name"
             />
 
-            <input type="email" name="email" id="email" placeholder="Email*" />
+            <input
+              type="email"
+              name="email"
+              id="email"
+              placeholder="Email*"
+              aria-label="email"
+            />
 
             <input
               type="text"
               name="subject"
               id="subject"
               placeholder="Subject"
+              aria-label="subject"
             />
 
             <textarea
@@ -187,9 +195,12 @@
               cols="24"
               rows="5"
               placeholder="Your Message..."
+              aria-label="Write a message"
             ></textarea>
 
-            <div class="button-submit"><a href="#">Submit</a></div>
+            <div class="button-submit" aria-label="submit button">
+              <a href="#">Submit</a>
+            </div>
           </form>
         </div>
         <div class="container-connected-logo">
