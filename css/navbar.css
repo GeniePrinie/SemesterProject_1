@@ -7,27 +7,27 @@ nav i {
 /* hambuger menu */
 .container-hamburger-menu {
   position: fixed;
-  top: 0;
-  right: 0px;
   z-index: 3;
+  top: 0;
+  right: 0;
 }
 
 .container-hamburger-menu .checkbox {
   position: absolute;
+  z-index: 4;
   top: 0;
   right: 0;
-  z-index: 4;
-  cursor: pointer;
   width: 60px;
   height: 60px;
   opacity: 0;
+  cursor: pointer;
 }
 
 .container-hamburger-menu .hamburger {
   position: absolute;
+  z-index: 3;
   top: 0;
   right: 0;
-  z-index: 3;
   width: 35px;
   height: 35px;
   padding: 1rem;
@@ -40,9 +40,9 @@ nav i {
 /* making hamburger line */
 .container-hamburger-menu .hamburger > div {
   position: relative;
-  flex: none;
   width: 100%;
   height: 2px;
+  flex: none;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -56,10 +56,10 @@ nav i {
   content: "";
   position: absolute;
   z-index: 3;
+  background: inherit;
   top: -10px;
   width: 100%;
   height: 2px;
-  background: inherit;
 }
 
 /* moves a line down */
@@ -84,7 +84,7 @@ nav i {
   transform: rotate(225deg);
 }
 
-/* show menu */
+/* show menu when the box is checked */
 .container-hamburger-menu .checkbox:checked ~ .menu {
   visibility: visible;
 }
@@ -98,7 +98,7 @@ nav i {
 
 .container-hamburger-menu .checkbox:checked ~ .menu > div > div {
   opacity: 1;
-  transition: opacity 0.4s ease 0.4s;
+  transition: opacity 0.3s ease 0.3s;
 }
 
 .container-hamburger-menu .menu {
@@ -106,9 +106,9 @@ nav i {
   top: 0;
   right: 0;
   width: 100%;
+  display: flex;
   visibility: hidden;
   overflow: hidden;
-  display: flex;
 }
 
 .container-hamburger-menu .menu > div {
@@ -120,15 +120,15 @@ nav i {
   align-items: center;
   justify-content: center;
   transform: translate(3000px, 0);
-  transition: all 0.4s ease;
+  transition: all 0.3s ease;
 }
 
 .container-hamburger-menu .menu > div > div {
   text-align: center;
-  max-width: 90vw;
-  max-height: 100vh;
   opacity: 0;
   transition: opacity 0.3s ease;
+  max-width: 90vw;
+  max-height: 100vh;
 }
 
 .container-hamburger-menu .menu > div > div > ul {
