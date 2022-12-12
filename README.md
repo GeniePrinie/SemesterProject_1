@@ -2,11 +2,11 @@
 
 ![img2](https://user-images.githubusercontent.com/100139381/205899556-fc131ad3-4c89-4faf-b200-efe0028dd9f7.jpg)
 
-This is a Home page of Community Science Museum website (CSM), a museam/education website for school-age children and parents.
+This is the home page of Community Science Museum website (CSM). The site is a educational website made specifically for school-age children.
 
 ## Description
 
-This project was to create an museam/education website for school-age children and parents. The purpose of this project was to make the website easy to use because of the target audiences are mostly children. The Hamburger Bar is used for both phone-view and desktop-view. The contact form is in the footer of every pages for easy access for when the user wants to contact the museum.
+The project was to create an educational website for school-age children and parents. The purpose of this project was to make the website easy to use, because the target audiences are mostly children. The hamburger bar is used for both phone-view and desktop-view. The contact form is in the footer of every page, for easy access when the user wants to contact the museum.
 
 ### The pages are:
 1. Home Page (has an About section under the welcome text)
@@ -25,6 +25,7 @@ This project was to create an museam/education website for school-age children a
 
 
 ## Contact
+
 [My Linkedin page](https://www.linkedin.com/in/genie-prinyanut-ab3441257/)
 
 [My Website](https://genieprinyanut.netlify.app/)
